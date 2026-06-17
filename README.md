@@ -34,17 +34,17 @@ Users can register, login, view classes, and book available slots.
 ### Login API
 ![Login](screenshots/login.png)
 
-### classes API
-![classes](screenshots/classes.png)
+### Classes API
+![Classes](screenshots/classes.png)
 
-### get_classes API
-![get_classes](screenshots/get_classes.png)
+### Get_classes API
+![Get_classes](screenshots/get_classes.png)
 
 ### Booking API
 ![Booking](screenshots/booking.png)
 
-### Booking API
-![get_Booking](screenshots/get_booking.png)
+### Get_Booking API
+![Get_Booking](screenshots/get_booking.png)
 
 ---
 
@@ -52,7 +52,7 @@ Users can register, login, view classes, and book available slots.
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/harjotsingh-dev/Fitness-booking-API.git
 cd project-folder
 bash
 
